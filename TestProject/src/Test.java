@@ -6,7 +6,19 @@ import java.util.Scanner;
 public class Test {
 	public static void main(String[] arg) {
 		
-		System.out.println("efwgwgfwg");
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		System.out.println("thw first");
 		
 		
 		
