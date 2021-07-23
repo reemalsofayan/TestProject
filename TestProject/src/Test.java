@@ -8,7 +8,10 @@ public class Test {
 
 		 Scanner scannerToReadAirlines = null;
 		 
+		 
 		 Scanner scannerToReadAirliness = null;
+		 
+		 
 		 
 	        try{
 	            scannerToReadAirlines = new Scanner(new File("airlines.txt"));
