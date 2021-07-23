@@ -8,14 +8,7 @@ public class Test {
 		
 		
 		
-		
-		
-		
 		System.out.println("the second");
-		
-		
-		
-		
 		
 		
 		
