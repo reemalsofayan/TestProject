@@ -6,9 +6,7 @@ import java.util.Scanner;
 public class Test {
 	public static void main(String[] arg) {
 		
-		
-		
-		
+	
 		
 		
 		System.out.println("the second");
@@ -16,6 +14,7 @@ public class Test {
 		
 		
 		
+		System.out.println("the second1313311");
 		
 		
 		
