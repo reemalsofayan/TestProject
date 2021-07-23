@@ -7,6 +7,8 @@ public class Test {
 	public static void main(String[] arg) {
 
 		 Scanner scannerToReadAirlines = null;
+		 
+		 Scanner scannerToReadAirliness = null;
 	        try{
 	            scannerToReadAirlines = new Scanner(new File("airlines.txt"));
 	        }
